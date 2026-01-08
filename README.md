@@ -21,16 +21,23 @@ This dashboard helps businesses make data-driven decisions.
 
 
 
-Social Media Campaign Performance Tracker-Future Interns(Task 2) Tool: Microsoft Power BI Dataset: Social Media Ads (CSV)
+Social Media Campaign Performance Tracker – Future Interns (Task 2)
 
-Description: This project analyzes social media advertising campaign data using Power BI. The dashboard tracks campaign performance using metrics such as clicks, impressions, conversions, and spend.
+Objective:
+Analyze social media campaign data to evaluate engagement, reach, and overall campaign effectiveness across platforms.
 
-Key Features:
+Tools Used:
+Power BI, Excel
 
-KPI cards for total clicks, impressions, conversions, and spend
+Key Insights:
 
-Campaign-wise and platform-wise performance analysis
+Tracked engagement metrics (likes, shares, comments) across campaigns
 
-Interactive filters for campaign and platform
+Identified top-performing posts and campaigns
 
-Outcome: The dashboard helps identify high-performing campaigns and supports data-driven marketing decisions.
+Analyzed audience growth and reach trends
+
+Compared platform-wise performance to optimize strategy
+
+Conclusion:
+This tracker enables businesses to measure the impact of their social media campaigns and make informed decisions to improve engagement and ROI.
