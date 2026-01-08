@@ -19,6 +19,8 @@ This dashboard helps businesses make data-driven decisions.
 
 
 
+
+
 Social Media Campaign Performance Tracker-Future Interns(Task 2) Tool: Microsoft Power BI Dataset: Social Media Ads (CSV)
 
 Description: This project analyzes social media advertising campaign data using Power BI. The dashboard tracks campaign performance using metrics such as clicks, impressions, conversions, and spend.
